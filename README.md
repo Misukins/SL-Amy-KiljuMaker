@@ -1,2 +1,2 @@
 # SL-Amy-KiljuMaker
- woowpwowpwow
+This is my scripts for Kilju making from MSC in SL :)
