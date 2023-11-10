@@ -174,7 +174,7 @@ addWater(key _id)
     }
     else
         llInstantMessage(_id, "You tryed to add too much water, it would overfill.");
-        WATERcount = WATERcount++;
+    WATERcount = WATERcount++;
 }
 
 addYeast(key _id)
